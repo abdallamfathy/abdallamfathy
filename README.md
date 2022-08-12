@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **abdallamfathy@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1U9QqETOCyGh9enhwPgFDnGs0kqP7BKFaRx4dIDIY3ks/edit?usp=sharing](https://docs.google.com/document/d/1U9QqETOCyGh9enhwPgFDnGs0kqP7BKFaRx4dIDIY3ks/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/xdangos_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xdangos_dev" height="30" width="40" /></a>
