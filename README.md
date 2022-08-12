@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A Meticulous frontend developer</h3>
-<img align="right" alt="Coding" width="400" background-color=#ffff src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif"/>
+<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/uwp/uwp1989490.jpeg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallamfathy&label=Profile%20views&color=a90eb4&style=flat-square" alt="abdallamfathy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/xdangos_dev" target="blank"><img src="https://img.shields.io/twitter/follow/xdangos_dev?logo=twitter&style=for-the-badge" alt="xdangos_dev" /></a> </p>
