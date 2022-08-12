@@ -7,8 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallamfathy&label=Profile%20views&color=a90eb4&style=flat-square" alt="abdallamfathy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallamfathy" alt="abdallamfathy" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/xdangos_dev" target="blank"><img src="https://img.shields.io/twitter/follow/xdangos_dev?logo=twitter&style=for-the-badge" alt="xdangos_dev" /></a> </p>
 
 - 🔭 I’m currently working on [PDF.Viewer-With-JavaScript](https://github.com/abdallamfathy/PDF.Viewer-With-JavaScript)
