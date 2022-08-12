@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A Meticulous frontend developer</h3>
 <img align="right" alt="Coding" width="400" background-color=#ffff src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif"/>
