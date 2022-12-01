@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Github finder](https://github-finder-two-omega.vercel.app/?fbclid=IwAR2Ams0dkpZEoH75RCZKiQB0m86qnNC6CBBiMznI9ayTQ_0Ki1oV3xN3MOQ)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
