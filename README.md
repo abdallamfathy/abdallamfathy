@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A Meticulous frontend developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif"/> -->
-<a align="right" href="https://app.daily.dev/xdangos_dev"><img src="https://api.daily.dev/devcards/ca5ec11b34664695ba8d15c7ddfdc33a.png?r=srb" width="400" alt="Abdullah's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/xdangos_dev"><img align="right" src="https://api.daily.dev/devcards/ca5ec11b34664695ba8d15c7ddfdc33a.png?r=srb" width="300" alt="Abdullah's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallamfathy&label=Profile%20views&color=a90eb4&style=flat-square" alt="abdallamfathy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/xdangos_dev" target="blank"><img src="https://img.shields.io/twitter/follow/xdangos_dev?logo=twitter&style=for-the-badge" alt="xdangos_dev" /></a> </p>
