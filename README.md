@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/xdangos_dev" target="blank"><img src="https://img.shields.io/twitter/follow/xdangos_dev?logo=twitter&style=for-the-badge" alt="xdangos_dev" /></a> </p>
 
-- 🔭 I’m currently working on [Github finder](https://github-finder-two-omega.vercel.app/?fbclid=IwAR2Ams0dkpZEoH75RCZKiQB0m86qnNC6CBBiMznI9ayTQ_0Ki1oV3xN3MOQ)
+- 🔭 I’m currently working on [flowbite-react](https://github.com/themesberg/flowbite-react)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning a lot of things. Aren't u?
 
-- 👯 I’m looking to collaborate on [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- 👯  I’m looking to collaborate on Open Source and Education.
 
 - 💬 Ask me about **Html,Css,Js,React.js**
 
